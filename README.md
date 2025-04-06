@@ -1,6 +1,6 @@
-# Tonebridge (Beta)
+# tonebridge
 
-**Tonebridge** is a lightweight experimental AI-powered translator that adjusts the *formality* of sentences in real time.
+**tonebridge** is a lightweight experimental AI-powered translator that adjusts the *formality* of sentences in real time.
 
 Built using:
 - 🧠 [Gemini API](https://aistudio.google.com/app/prompts)
