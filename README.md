@@ -1,8 +1,17 @@
 ![Tonebridge Banner](https://github.com/thecoderexe/tonebridge/blob/main/assets/tonebridge-banner.png?raw=true)
 
+<p align="center">
+  <a href="https://tonebridge.vercel.app"><img src="https://img.shields.io/badge/version-0.1.0--beta-blue" /></a>
+  <a href="https://vercel.com"><img src="https://img.shields.io/badge/deployment-vercel-green" /></a>
+  <img src="https://img.shields.io/badge/license-non--commercial-lightgrey" />
+  <img src="https://img.shields.io/badge/status-experimental-orange" />
+</p>
+
 <p align='center'>
 Try tonebridge at <a href="https://tonebridge.vercel.app">tonebridge.vercel.app</a>
 </p>
+
+---
 
 ## Using tonebridge
 
@@ -43,8 +52,8 @@ Tonebridge is built as a lightweight web utility using powerful APIs:
 **tonebridge** was built with the idea that translation shouldn't be one-size-fits-all.  
 
 The goal is to provide:
-- ✍️ **Customizable, context-aware translation** with adjustable tone and formality
-- 🔊 **Optional voice playback** using ElevenLabs or native speech synthesis
+- ✍️ **Customizable, context-aware translation** with adjustable tone and formality  
+- 🔊 **Optional voice playback** using ElevenLabs or native speech synthesis  
 - 🎨 A clean, modern UI with support for multiple themes
 
 It’s designed to help developers prototype better multilingual interactions in their own tools or apps—without the complexity.
@@ -70,3 +79,7 @@ tonebridge is an independent developer tool and **is not affiliated with any oth
 It is a closed-source, non-commercial project in the field of AI-assisted translation.
 
 ---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/thecoderexe">thecoderexe</a>
+</p>
