@@ -1,4 +1,4 @@
-![Tonebridge Banner](./assets/tonebridge-banner.png)
+![Tonebridge Banner](https://github.com/thecoderexe/tonebridge/blob/main/assets/tonebridge-banner.png?raw=true)
 
 <p align='center'>
 Try tonebridge at <a href="https://tonebridge.vercel.app">tonebridge.vercel.app</a>
