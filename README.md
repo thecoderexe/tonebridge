@@ -1,3 +1,4 @@
+![tonebridge-horizontal-logo](https://raw.githubusercontent.com/thecoderexe/tonebridge/refs/heads/main/assets/tonebridge-logo-horizontal.png)
 # tonebridge
 
 **tonebridge** is a lightweight experimental AI-powered translator that adjusts the *formality* of sentences in real time.
