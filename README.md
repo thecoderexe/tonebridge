@@ -38,7 +38,7 @@ Tonebridge is built as a lightweight web utility using powerful APIs:
 
 ---
 
-## Philosophy
+## 📖 Philosophy
 
 **tonebridge** was built with the idea that translation shouldn't be one-size-fits-all.  
 
@@ -51,7 +51,7 @@ It’s designed to help developers prototype better multilingual interactions in
 
 ---
 
-## Setup & API Keys
+## 🗝️ Setup & API Keys
 
 You must bring your own API keys to use tonebridge:
 
@@ -64,7 +64,7 @@ Paste both directly into the web app. No keys are stored or sent to any backend�
 
 ---
 
-## Legal
+## ⚖️ Legal
 
 tonebridge is an independent developer tool and **is not affiliated with any other product or company using the name "Tonebridge."**  
 It is a closed-source, non-commercial project in the field of AI-assisted translation.
