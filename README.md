@@ -22,7 +22,6 @@ Visit [tonebridge.vercel.app](https://tonebridge.vercel.app), paste your own API
 - Bring your own [Google Gemini API Key](https://aistudio.google.com/app/prompts)
 - Optional [ElevenLabs API Key](https://www.elevenlabs.io/) for ultra-realistic voice playback
 - Fallback to **native browser TTS** if ElevenLabs is not used
-- Light/dark themes for a clean dev experience
 
 > ⚠️ This project is an experimental tool for developers and tinkerers. It is **non-commercial** and **closed-source**.
 
