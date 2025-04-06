@@ -17,7 +17,7 @@ Built using:
 ---
 
 ## 🔗 Try It
-👉 [tonebridge-beta.vercel.app](https://tonebridge-beta.vercel.app)
+👉 [tonebridge.vercel.app](https://tonebridge.vercel.app)
 
 ---
 
