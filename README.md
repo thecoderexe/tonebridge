@@ -31,7 +31,7 @@ Visit [tonebridge.vercel.app](https://tonebridge.vercel.app), paste your own API
 
 [![Techstack](https://skillicons.dev/icons?i=html,js,vercel,react,nextjs,figma,ai)](https://skillicons.dev)
 
-Tonebridge is built as a lightweight web utility using powerful APIs:
+tonebridge is built as a lightweight web utility using powerful APIs:
 
 - [Google Gemini via AI Studio](https://aistudio.google.com/)
   - Fast, intelligent formality-aware language processing
